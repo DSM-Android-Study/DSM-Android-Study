@@ -18,7 +18,7 @@ let & with & run & apply & also 란?
 
 
 
-### Let
+### let
 
 `let` 함수는 매개변수화된 타입 T의 확장 함수이다.(extension) 자기 자신을 받아서 R을 반환하는(`(T) -> R`) 람다 식을 입력으로 받고, 블럭 함수의 반환값 `R`을 반환한다. 여기서는 Person 클래스의 확장 함수로 사용되어 `person.let` 의 형태가 가능해진다.
 
