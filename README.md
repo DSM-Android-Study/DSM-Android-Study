@@ -24,4 +24,4 @@
 * 임세현 - [아키텍처란?](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2021.12.30/%EC%9E%84%EC%84%B8%ED%98%84)
 * 유현명 - [코틀린 헷갈릴 만한 문법들](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2021.12.30/KotlinGrammer_유현명)
 * 김준호 - 
-* 박민서 - 
+* 박민서 - [안드로이드 가이드라인](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2021.12.30/%EB%B0%95%EB%AF%BC%EC%84%9C)
