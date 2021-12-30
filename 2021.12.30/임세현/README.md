@@ -30,8 +30,14 @@
 
 ### Architecture Pattern in Android
 
+![image](https://user-images.githubusercontent.com/80076029/147759050-fc3cd92c-2dcd-4254-b277-6ed17cb62507.png)
+
 * MVC는 웹의 패턴을 차용한 안드로이드 최초의 아키텍처 패턴으로 앱을 인터페이스를 분리하기 위한 패턴입니다.
 
+![image](https://user-images.githubusercontent.com/80076029/147759061-474f79aa-c1cc-4276-a3e7-68834ee6260e.png)
+
 * MVP는 MVC의 컨트롤러의 문제점을 덜기 위해, 뷰에 안드로이드 액티비티가 결합된 패턴입니다.
+
+![image](https://user-images.githubusercontent.com/80076029/147759073-0706e894-2564-409a-bcd7-3f87b8b30550.png)
 
 * MVVM 패턴은 dataBinding을 활용한 환경에서 데이터와 프레젠테이션 로직을 분리하기 위한 디자인 패턴입니다.
