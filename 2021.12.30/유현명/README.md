@@ -6,7 +6,7 @@ lateinit와 by lazy의 차이는 선언을 var로 하느냐 val로 하느냐의 
 private lateinit var a : String
 
 private val b : Int by lazy{
-		1
+     1
 }
 ```
 
