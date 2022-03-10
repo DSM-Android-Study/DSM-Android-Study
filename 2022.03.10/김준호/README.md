@@ -178,23 +178,25 @@
 - 길이 제한
 
   ```xml
-  <com.google.android.material.textfield.TextInputLayout
-          android:id="@+id/textInputLayout6"
-          android:layout_width="300dp"
-          android:layout_height="wrap_content"
-          android:layout_marginTop="30dp"
-          app:counterMaxLength="10"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toBottomOf="@+id/textInputLayout5">
-  
-          <com.google.android.material.textfield.TextInputEditText
-              android:layout_width="match_parent"
-              android:layout_height="wrap_content"
-              android:background="#00ff0000"
-              android:hint="text" />
-          <!--android:maxLength="10"-->
-      </com.google.android.material.textfield.TextInputLayout>
+   <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout6"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        app:counterMaxLength="10"
+        app:counterEnabled="true"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout5">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="text"
+            android:inputType="text"
+            android:maxLength="10"/>
+    </com.google.android.material.textfield.TextInputLayout>
   ```
 
 - 형식 확인하기( 이메일 )
