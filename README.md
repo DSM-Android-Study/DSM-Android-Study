@@ -29,5 +29,5 @@
 [ 2회차. 2022.03.10 ]
 
 * 임세현 - [제목](URL)
-* 유현명 - [제목](URL)
+* 유현명 - [Android FCM](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.03.10/유현명)
 * 김준호 - [제목](URL)
