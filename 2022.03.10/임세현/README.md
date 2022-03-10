@@ -7,9 +7,7 @@
 Extension functions(확장 함수)는 기존에 정의된 클래스에 함수를 추가하는 기능입니다. 자신이 만든 클래스는 새로운 함수가 필요할 때 쉽게 추가할 수 있습니다.
 
 
-
-![image-20220310224742270](/Users/limsaehyun/Library/Application Support/typora-user-images/image-20220310224742270.png)
-
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/80076029/157675901-6a6bffeb-da3f-48e0-9ee4-51552620ca30.png">
 
 
 ### 확장함수 활용하기
