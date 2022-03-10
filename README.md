@@ -28,6 +28,6 @@
 
 [ 2회차. 2022.03.10 ]
 
-* 임세현 - [제목](URL)
+* 임세현 - [확장함수로 중복되는 코드 제거하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.03.10/%EC%9E%84%EC%84%B8%ED%98%84)
 * 유현명 - [Android FCM](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.03.10/유현명)
 * 김준호 - [안드로이드 ButtonFunction and TextInputLayout](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.03.10/김준호)
