@@ -50,6 +50,26 @@ binding.view.invisible()
 binding.view.visible()
 ```
 
+```
+Glide.with(applicationContext)
+    .load("url")
+    .into(binding.view)
+```
+
+다음은 view에 사진을 붙여넣는 코드입니다.
+
+```
+fun ImageView.loadFromUrl(url: String) =
+    Glide.with(this.context.applicationContext)
+        .load(url)
+        .into(this)
+```
+
+해당 코드도 확장 함수를 통해 간편하게 사용하실 수 있습니다.
+
+```
+binding.view.loadFromUrl("url")
+``
 
 
 이 외에도 확장 함수는 여러가지 경우에 사용이 가능합니다.
