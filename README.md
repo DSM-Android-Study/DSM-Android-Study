@@ -34,6 +34,6 @@
 
 [ 3회차. 2022.03.24 ]
 
-* 양지원 - []()
+* 양지원 - [Kotlin의 Null 처리](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.03.24/%EC%96%91%EC%A7%80%EC%9B%90)
 * 박민서 - []()
 * 이용진 - []()
