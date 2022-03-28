@@ -1,6 +1,7 @@
 # 아키텍처?
 
-
+### 발표 자료
+* [keynote](https://drive.google.com/file/d/1osJwCV31L2fvvQtwS2drHJkbJDsTUnd1/view?usp=sharing)
 
 ### What is?
 
