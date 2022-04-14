@@ -40,7 +40,7 @@
 
 [ 4ghlck. 2022.04.14 ]
 
-* 임세현 -
+* 임세현 - [안드로이드 테스트](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/%EC%9E%84%EC%84%B8%ED%98%84)
 * 박민서 -
 * 양지원 -
 * 이용진 -
