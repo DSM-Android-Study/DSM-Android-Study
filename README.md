@@ -45,4 +45,4 @@
 * 양지원 -
 * 이용진 -
 * 유현명 -
-* 김준호 -
+* 김준호 - [ArrayList 저장하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/김준호)
