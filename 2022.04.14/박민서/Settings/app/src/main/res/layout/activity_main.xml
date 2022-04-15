@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDDDD"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/line_1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.2" />
+
+    <androidx.constraintlayout.widget.Guideline
+    android:id="@+id/line_2"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:orientation="vertical"
+    app:layout_constraintGuide_percent="0.8" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:textSize="50sp"
+        android:id="@+id/btn"
+        android:text="진동"
+        app:layout_constraintTop_toBottomOf="@id/search_view"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/btn_music"
+        app:layout_constraintBottom_toTopOf="@id/btn_stop" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:textSize="50sp"
+        android:id="@+id/btn_music"
+        android:text="음악"
+        app:layout_constraintTop_toTopOf="@id/btn"
+        app:layout_constraintBottom_toBottomOf="@id/btn"
+        app:layout_constraintLeft_toRightOf="@id/btn"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:textSize="50sp"
+        android:id="@+id/btn_stop"
+        android:text="멈춰"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/btn_share"
+        app:layout_constraintTop_toBottomOf="@id/search_view"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search_view"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:background="@drawable/background"
+        app:iconifiedByDefault="true"
+        android:windowSoftInputMode="adjustResize"
+        app:queryHint="검색어를 입력하세요"
+        app:layout_constraintLeft_toLeftOf="@id/line_1"
+        app:layout_constraintRight_toRightOf="@id/line_2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/btn_music" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:textSize="50sp"
+        android:id="@+id/btn_share"
+        app:layout_constraintLeft_toRightOf="@id/btn_stop"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/btn_stop"
+        app:layout_constraintBottom_toBottomOf="@id/btn_stop"
+        android:text="공유" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
