@@ -41,7 +41,7 @@
 [ 4회차. 2022.04.14 ]
 
 * 임세현 - [안드로이드 테스트](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/%EC%9E%84%EC%84%B8%ED%98%84)
-* 박민서 -
+* 박민서 - [알아 두면 유용한 기능들](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
 * 양지원 -
 * 이용진 -
 * 유현명 -
