@@ -52,6 +52,6 @@
 * 박민서 - []()
 * 임세현 - []()
 * 김준호 - []()
-* 유현명 - []()
+* 유현명 - [Socket의 기초](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/%EC%9C%A0%ED%98%84%EB%AA%85)
 * 장석현 - []()
 * 양지원 - []()
