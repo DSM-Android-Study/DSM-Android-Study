@@ -44,7 +44,7 @@
 * 박민서 - [알아 두면 유용한 기능들](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/%EB%B0%95%EB%AF%BC%EC%84%9C)
 * 양지원 - [SimpleDateFormat & Calendar](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/%EC%96%91%EC%A7%80%EC%9B%90)
 * 이용진 -
-* 유현명 -
+* 유현명 - [HTTP Method](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/유현명)
 * 김준호 - [ArrayList 저장하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.04.14/김준호)
 
 [ 5회차. 2022.05.12 ]
@@ -60,5 +60,5 @@
 
 * 임세현 - [오류 페이지로 오류 깔끔하게 처리하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/%EC%9E%84%EC%84%B8%ED%98%84)
 * 김준호 - [JetpackCompose 1](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/김준호)
-          {참고자료(https://github.com/kimjjunho/JetpackCompose/tree/main/DMSCompose)}
+          참고자료(https://github.com/kimjjunho/JetpackCompose/tree/main/DMSCompose)
 * 유현명 - [클린아키텍처란?](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/유현명)
