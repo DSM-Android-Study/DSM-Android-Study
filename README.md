@@ -53,5 +53,11 @@
 * 임세현 - [KtLint으로 코드 퀄리티 1% 높이기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/%EC%9E%84%EC%84%B8%ED%98%84)
 * 김준호 - [짧은 코드](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/김준호)
 * 유현명 - [Socket의 기초](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/%EC%9C%A0%ED%98%84%EB%AA%85)
-* 장석현 - []()
+* 이용진 - []()
 * 양지원 - []()
+
+[ 6회차. 2022.05.19 ]
+
+* 임세현 - []()
+* 김준호 - []()
+* 유현명 - [클린아키텍처란?](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/유현명)
