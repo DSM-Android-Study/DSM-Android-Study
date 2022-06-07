@@ -61,3 +61,9 @@
 * 임세현 - [오류 페이지로 오류 깔끔하게 처리하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/%EC%9E%84%EC%84%B8%ED%98%84)
 * 김준호 - [JetpackCompose 1](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/김준호) [참고](https://github.com/kimjjunho/JetpackCompose/tree/main/DMSCompose)
 * 유현명 - [클린아키텍처란?](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.19/유현명)
+
+[ 7회차. 2022.06.02 ]
+
+* 이용진 -
+* 양지원 -
+* 박민서 -
