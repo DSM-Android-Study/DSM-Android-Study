@@ -55,7 +55,7 @@ webView.loadUrl("https://www.naver.co.kr/")
       fun showToast(toast: String) {
           Toast.makeText(mContext, toast, Toast.LENGTH_SHORT).show()
       }
-  }
+  }f
   ```
 
   3. 위에서 생성한 클래스를 웹뷰에 추가하기
@@ -70,7 +70,7 @@ webView.loadUrl("https://www.naver.co.kr/")
   <input type="button" value="Say hello" onClick="showAndroidToast('Hello Android!')"/
   
   <script type="text/javascript">
-  	function showAndroidToast(toast){우
+  	function showAndroidToast(toast){
       	Android.showToast(toast);
     }
   </script>
