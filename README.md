@@ -67,3 +67,13 @@
 * 이용진 -
 * 양지원 -
 * 박민서 - [커스텀뷰 만들기](https://github.com/DSM-Android-Study/DSM-Android-Study/blob/main/2022.06.02/박민서/CustomView.md)
+
+[ 8회차. 2022.06.09 ]
+
+* 임세현 - 
+* 김준호 - [JetpackCompose 2]
+
+* 이용진 -ㅣ
+* 이용진 -ㅁ
+* 이용진 -ㅈ
+* 이용진 -
