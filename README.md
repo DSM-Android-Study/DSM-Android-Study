@@ -75,4 +75,6 @@
 
 [ 9회차. 2022.06.16 ]
 
-
+* 이용진 -
+* 양지원 -
+* 박민서 - [커스텀뷰 만들기](https://github.com/DSM-Android-Study/DSM-Android-Study/blob/main/2022.06.02/박민서/CustomView.md)
