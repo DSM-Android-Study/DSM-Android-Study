@@ -72,3 +72,7 @@
 
 * 임세현 - [Kotlin DSL, buildSrc 활용하여 Dependency 관리하기](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.06.09/%EC%9E%84%EC%84%B8%ED%98%84)
 * 김준호 - [JetpackCompose 2](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.06.09/김준호)
+
+[ 9회차. 2022.06.16 ]
+
+
