@@ -54,7 +54,7 @@
 * 김준호 - [짧은 코드](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/김준호)
 * 유현명 - [Socket의 기초](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/%EC%9C%A0%ED%98%84%EB%AA%85)
 * 이용진 - []()
-* 양지원 - []()
+* 양지원 - [Android Component](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.05.12/%EC%96%91%EC%A7%80%EC%9B%90)
 
 [ 6회차. 2022.05.19 ]
 
@@ -76,5 +76,5 @@
 [ 9회차. 2022.06.16 ]
 
 * 이용진 -
-* 양지원 -
+* 양지원 - [LiveData&Databinding](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.06.16/%EC%96%91%EC%A7%80%EC%9B%90)
 * 박민서 - [안드로이드 비동기 처리](https://github.com/DSM-Android-Study/DSM-Android-Study/blob/main/2022.06.16/박민서/안드로이드%20비동기%20처리.md)
