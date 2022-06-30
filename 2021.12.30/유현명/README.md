@@ -1,3 +1,6 @@
+**발표 자료 웹으로 보기**
+https://drive.google.com/file/d/1GCHdjsjv4bWar-7VG6y9LXeP_wh3BMS3/view?usp=sharing
+
 ## lateinit VS by lazy
 
 lateinit와 by lazy의 차이는 선언을 var로 하느냐 val로 하느냐의 차이에 있다.

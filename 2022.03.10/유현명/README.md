@@ -1,3 +1,6 @@
+**발표 자료 웹으로 보기** 
+https://drive.google.com/file/d/1rr1qOW8gRQrxEPCOhtZ_MLlMgL3-KRTT/view?usp=sharing
+
 ## Android FCM 
 
 #### FCM이란?
