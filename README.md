@@ -82,3 +82,4 @@
 [ 10회차. 2022.06.30 ]
 
 * 김준호 - [ListAdapter](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.06.30/김준호)
+* 유현명 - [안드로이드 개발자로써 갖춰야할 역량](https://github.com/DSM-Android-Study/DSM-Android-Study/tree/main/2022.06.30/%EC%9C%A0%ED%98%84%EB%AA%85)
